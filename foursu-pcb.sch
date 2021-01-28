@@ -574,4 +574,24 @@ Text GLabel 5300 3800 0    50   Input ~ 0
 ROW0
 Text GLabel 5300 4500 0    50   Input ~ 0
 ROW1
+Wire Wire Line
+	1700 2750 1700 2900
+Connection ~ 1700 2750
+Connection ~ 1700 2900
+Wire Wire Line
+	3750 2800 3850 2800
+Wire Wire Line
+	3850 2700 3750 2700
+Text GLabel 3850 2800 2    50   Input ~ 0
+COL0
+Text GLabel 3850 2900 2    50   Input ~ 0
+COL1
+Text GLabel 3850 2700 2    50   Input ~ 0
+ROW1
+Text GLabel 3850 4200 2    50   Input ~ 0
+ROW0
+Wire Wire Line
+	3850 2900 3750 2900
+Wire Wire Line
+	3750 4200 3850 4200
 $EndSCHEMATC
