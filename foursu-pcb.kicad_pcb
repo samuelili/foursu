@@ -3,7 +3,7 @@
   (general
     (thickness 1.6)
     (drawings 67)
-    (tracks 65)
+    (tracks 68)
     (zones 0)
     (modules 11)
     (nets 30)
@@ -759,6 +759,9 @@
   (gr_circle (center 140.484886 170.047964) (end 142.184886 170.047964) (layer Dwgs.User) (width 0.2) (tstamp 6014C47C))
   (gr_line (start 91.64375 183.225) (end 143.284886 172.248337) (layer Dwgs.User) (width 0.2) (tstamp 6014C47F))
 
+  (via (at 24.60625 227.0125) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 0))
+  (via (at 76.99375 217.4875) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 0))
+  (via (at 169.06875 109.5375) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 0))
   (segment (start 90.239499 128.909499) (end 77.386565 128.909499) (width 0.381) (layer B.Cu) (net 1) (tstamp 6014C8CF))
   (segment (start 91.63 130.3) (end 90.239499 128.909499) (width 0.381) (layer B.Cu) (net 1) (tstamp 6014C8CC))
   (segment (start 54.993543 142.516457) (end 52.39 145.12) (width 0.381) (layer B.Cu) (net 1) (tstamp 6014C8C3))
